@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="assets/images/logo.png" alt="PunchIn Logo" width="480"/>
 
 # PunchIn — Smart Workplace Attendance
 
