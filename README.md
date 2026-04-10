@@ -56,24 +56,6 @@
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-
-| Login | Employee Dashboard | Check-In |
-|:---:|:---:|:---:|
-| <img src="screenshots/login.png" width="200"/> | <img src="screenshots/employee_dashboard.png" width="200"/> | <img src="screenshots/checkin.png" width="200"/> |
-
-| Admin Dashboard | Attendance Logs | Reports |
-|:---:|:---:|:---:|
-| <img src="screenshots/admin_dashboard.png" width="200"/> | <img src="screenshots/logs.png" width="200"/> | <img src="screenshots/reports.png" width="200"/> |
-
-</div>
-
-> Screenshots will be added after the first stable release. Want to contribute screenshots? See [Contributing](#-contributing).
-
----
-
 ## 🛠 Tech Stack
 
 | Layer | Technology | Purpose |
